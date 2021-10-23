@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @MagmutC3
+- 👀 I’m interested in smart contract development
+- 🌱 I’m currently learning rust and solidity
+- 💞️ I’m looking to collaborate on fungible token projects
+- 📫 You can reach me @ piwowarczyk.pwl@gmail.com
