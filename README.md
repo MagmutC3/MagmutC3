@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @MagmutC3
-- 👀 I’m interested in smart contract development
-- 🌱 I’m currently learning java and solidity
-- 💞️ I’m looking to collaborate on blockchain related projects
-- 📫 You can reach me @ piwowarczyk.pwl@gmail.com and piwowarczyk.pwl@gmail.com
+- 👋 Hi, I’m Paweł!
+- 👀 My interests are all over the place
+- 🌱 I’m currently learning front-end js frameworks and python libraries
+- 💞️ I’m looking to collaborate on PWA projects
+- 📫 You can reach me @ piwowarczyk.pwl@gmail.com and pawel.piwowarczyk@naiadcoin.com
