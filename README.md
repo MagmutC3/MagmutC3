@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Paweł!
 - 👀 My interests are all over the place
-- 🌱 I’m currently learning front-end js frameworks and python libraries
-- 💞️ I’m looking to collaborate on PWA projects
+- 🌱 I’m currently spending most my time indulging in product management
+- 💞️ I’m looking to collaborate on anything within scope of agriculture
 - 📫 You can reach me @ piwowarczyk.pwl@gmail.com and pawel.piwowarczyk@naiadcoin.com
