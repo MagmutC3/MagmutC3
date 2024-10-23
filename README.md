@@ -2,4 +2,4 @@
 - 👀 My interests are all over the place
 - 🌱 I’m currently spending most my time indulging in product management
 - 💞️ I’m looking to collaborate on anything within scope of agriculture
-- 📫 You can reach me @ piwowarczyk.pwl@gmail.com and pawel.piwowarczyk@naiadcoin.com
+- 📫 You can reach me through my [Linkedin profile](https://www.linkedin.com/in/pawel-piwowarczyk-267324224/)
